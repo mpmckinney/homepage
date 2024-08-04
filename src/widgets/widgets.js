@@ -1,4 +1,5 @@
 import adguard from "./adguard/widget";
+import adguardsync from "./adguardsync/widget";
 import atsumeru from "./atsumeru/widget";
 import audiobookshelf from "./audiobookshelf/widget";
 import authentik from "./authentik/widget";
@@ -126,6 +127,7 @@ import zabbix from "./zabbix/widget";
 
 const widgets = {
   adguard,
+  adguardsync,
   atsumeru,
   audiobookshelf,
   authentik,

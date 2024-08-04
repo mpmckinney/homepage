@@ -959,5 +959,12 @@
       "tasks7d": "Tasks Due This Week",
       "tasksOverdue": "Overdue Tasks",
       "tasksInProgress": "Tasks In Progress"
+    },
+    "adguardsync": {
+        "syncing": "Syncing",
+        "idle": "Idle",
+        "replicas": "Replicas",
+        "replicasSynced": "Replicas Synced",
+        "lastSync": "Last Sync"
     }
 }
